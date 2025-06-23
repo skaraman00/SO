@@ -1,0 +1,42 @@
+ [
+    {
+        id: '1',
+        title: 'Infrastructure Delays',
+        impact: 'High',
+        priority: 'High',
+        status: 'Open',
+        description: 'Delays in construction or facility setup may push back the school opening date.',
+    },
+    {
+        id: '2',
+        title: 'Lack of Qualified Staff',
+        impact: 'Critical',
+        priority: 'High',
+        status: 'In Progress',
+        description: 'It may be difficult to attract certified teachers and administrators in a new region.',
+    },
+    {
+        id: '3',
+        title: 'Low Community Engagement',
+        impact: 'Medium',
+        priority: 'Medium',
+        status: 'Open',
+        description: 'Limited support from local families could affect enrollment and outreach.',
+    },
+    {
+        id: '4',
+        title: 'Regulatory Approval Delays',
+        impact: 'High',
+        priority: 'High',
+        status: 'Resolved',
+        description: 'Government approvals or licenses may take longer than expected.',
+    },
+    {
+        id: '5',
+        title: 'Budget Overruns',
+        impact: 'Medium',
+        priority: 'Medium',
+        status: 'In Progress',
+        description: 'Costs may exceed budget due to unexpected infrastructure or staffing expenses.',
+    },
+]
